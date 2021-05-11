@@ -1,0 +1,17 @@
+{
+  "name": "alets-fonts",
+  "version": "1.0.0",
+  "description": "Some fonts",
+  "main": "index.js",
+  "private": false,
+  "style": "css/fonts.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aletsmart/alets-fonts.git"
+  },
+  "author": "Alets",
+  "license": "ISC"
+}
